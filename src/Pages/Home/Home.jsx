@@ -14,7 +14,7 @@ import Testimonial from "../Testimonial/Testimonial";
 
 const Home = () => {
     return (
-        <div className="bg-[#0b0d0e]" >
+        <div className="bg-[#CACAEE]" >
             <GoToTop></GoToTop>
             <Banner></Banner>
             <About></About>

@@ -40,15 +40,15 @@ const Testimonial = () => {
     return (
         <div className='lg:px-28 md:px-20 sm:px-12 px-10 py-8' id='testimonials'>
             <div>
-                <p className="text-[#08d665] font-medium uppercase py-2 u">testimonials</p>
-                <h2 className="lg:text-4xl md:text-4xl sm:text-3xl text-2xl font-extrabold uppercase text-[#ffffff]">happy clients to <span className="text-[#08d665]">say</span></h2>
+                <p className="text-[#EDCEAB] font-medium uppercase py-2 u">testimonials</p>
+                <h2 className="lg:text-4xl md:text-4xl sm:text-3xl text-2xl font-extrabold uppercase text-[#ffffff]">happy clients to <span className="text-[#EDCEAB]">say</span></h2>
             </div>
 
             <div className='py-8'>
                 <Slider {...settings}>
                     {
                         items.map((item, index) => <div key={index}>
-                            <div className="lg:flex lg:items-center lg:justify-center gap-8 lg;px-20 md:px-20 sm:px-12 px-8 py-10 border border-[#08d665]">
+                            <div className="lg:flex lg:items-center lg:justify-center gap-8 lg;px-20 md:px-20 sm:px-12 px-8 py-10 border border-[#EDCEAB]">
 
                                 <div className="lg:w-1/6 flex items-center justify-center" >
                                     <img className="rounded-full" src={item.authpr} alt="" />

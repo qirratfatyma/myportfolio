@@ -68,10 +68,10 @@ const Blogs = () => {
     return (
         <div className='lg:px-28 md:px-20 sm:px-12 px-10 py-8' id='blogs'>
             <div>
-                <p className="text-[#08d665] font-medium uppercase py-2 u">
+                <p className="text-[#EDCEAB] font-medium uppercase py-2 u">
                     recent news desk
                 </p>
-                <h2 className="lg:text-4xl md:text-4xl sm:text-3xl text-2xl font-extrabold uppercase text-[#ffffff]">latest news & <span className="text-[#08d665]">blogs</span></h2>
+                <h2 className="lg:text-4xl md:text-4xl sm:text-3xl text-2xl font-extrabold uppercase text-[#ffffff]">latest news & <span className="text-[#EDCEAB]">blogs</span></h2>
             </div>
 
             <div className='py-8'>
@@ -83,8 +83,8 @@ const Blogs = () => {
                                      <img className="group-hover:scale-105 duration-300" src={item.img} alt="" />
                                      <div className="bg-[#ffffff] py-4 px-6">
                                          <p className="text-lg">January {item.date}</p>
-                                         <h2 className="lg:text-2xl md:text-2xl text-xl font-medium py-3 group-hover:text-[#08d665] duration-300">{item.title}</h2>
-                                         <p className="text-sm font-medium text-[#08d665] flex items-center space-x-1 py-2">
+                                         <h2 className="lg:text-2xl md:text-2xl text-xl font-medium py-3 group-hover:text-[#EDCEAB] duration-300">{item.title}</h2>
+                                         <p className="text-sm font-medium text-[#EDCEAB] flex items-center space-x-1 py-2">
                                                 <span><GoArrowRight /></span>
                                                 <span>READ MORE</span>
                                          </p>

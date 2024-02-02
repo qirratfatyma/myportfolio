@@ -8,7 +8,7 @@
     height:100%;
     top:0;
     left:0;
-    background-color:#08d665;
+    background-color:#EDCEAB;
     opacity:0;
     transition:0.5s;
     cursor: pointer;
@@ -43,14 +43,14 @@
     right:5vh;
     top:-10vh;
     padding:8px 8px;
-    border:2px solid #08d665;
+    border:2px solid #EDCEAB;
     border-radius:6px;
-    color: #08d665;
+    color: #EDCEAB;
     cursor: pointer;
     transition:0.5s;
 }
 .arrow:hover{
-    background-color: #08d665;
+    background-color: #EDCEAB;
     color: #fff;
 }
 .arrow-next{

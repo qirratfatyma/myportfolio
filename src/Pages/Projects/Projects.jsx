@@ -66,8 +66,8 @@ const Projects = () => {
     return (
         <div className='lg:px-28 md:px-20 sm:px-12 px-10 py-8' id='portfolio'>
             <div>
-                <p className="text-[#08d665] font-medium uppercase py-2 u">working process</p>
-                <h2 className="lg:text-4xl md:text-4xl sm:text-3xl text-2xl font-extrabold uppercase text-[#ffffff]">latest working <span className="text-[#08d665]">projects</span></h2>
+                <p className="text-[#EDCEAB] font-medium uppercase py-2 u">working process</p>
+                <h2 className="lg:text-4xl md:text-4xl sm:text-3xl text-2xl font-extrabold uppercase text-[#ffffff]">latest working <span className="text-[#EDCEAB]">projects</span></h2>
             </div>
 
             <div className='py-8'>
