@@ -2,7 +2,7 @@ import GoToTop from "../../assets/GoToTop/GoToTop";
 import About from "../About/About";
 import Banner from "../Banner/Banner";
 import Blogs from "../Blogs/Blogs";
-import Exprences from "../Exprences/Exprences";
+import Experiences from "../Experiences/Experiences";
 import Footer from "../Footer/Footer";
 import Newsletter from "../Newsletter/Newsletter";
 import Pricing from "../Pricing/Pricing";
@@ -18,7 +18,7 @@ const Home = () => {
             <GoToTop></GoToTop>
             <Banner></Banner>
             <About></About>
-            <Exprences></Exprences>
+            <Experiences></Experiences>
             <Services></Services>
             <Projects></Projects>
             <Testimonial></Testimonial>

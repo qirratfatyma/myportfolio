@@ -1,6 +1,6 @@
-import allData from '../../../public/exprences.json'
+import allData from '../../../public/Experiences.json'
 
-const Exprences = () => {
+const Experiences = () => {
     return (
         <div className='lg:px-28 md:px-20 sm:px-12 px-10 py-8'>
             <div>
@@ -23,4 +23,4 @@ const Exprences = () => {
     );
 };
 
-export default Exprences;
+export default Experiences;
