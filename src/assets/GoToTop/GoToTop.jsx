@@ -29,7 +29,7 @@ const GoToTop = () => {
             {
                 visible && (
                     <div onClick={backTop} className="fixed top-[36vh] right-10">
-                        <p className="text-[#fff] bg-[#08D665] cursor-pointer 
+                        <p className="text-[#fff] bg-[#EDCEAB] cursor-pointer 
                         rounded-full shadow-lg py-2 px-2 text-2xl ">
                             <IoIosArrowUp />
 
