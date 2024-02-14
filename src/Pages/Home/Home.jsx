@@ -5,10 +5,8 @@ import Blogs from "../Blogs/Blogs";
 import Experiences from "../Experiences/Experiences";
 import Footer from "../Footer/Footer";
 import Newsletter from "../Newsletter/Newsletter";
-import Pricing from "../Pricing/Pricing";
 import Projects from "../Projects/Projects";
 import Services from "../Services/Services";
-import Testimonial from "../Testimonial/Testimonial";
 
 
 
@@ -21,8 +19,6 @@ const Home = () => {
             <Experiences></Experiences>
             <Services></Services>
             <Projects></Projects>
-            <Testimonial></Testimonial>
-            <Pricing></Pricing>
             <Blogs></Blogs>
             <Newsletter></Newsletter>
             <Footer></Footer>

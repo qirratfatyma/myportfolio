@@ -12,7 +12,7 @@ const Experiences = () => {
                  {
                     allData.map((data,index) => <div key={index}>
                         <div className='bg-[#0b0d0e] border border-[#30393db9] shadow-md px-4 py-4 space-y-2 hover:bg-[#1b1b1c] duration-300 hover:shadow-xl cursor-pointer'>
-                            <p className=''>{data.year} (UI DESIGNER)</p>
+                            <p className=''>{data.year}</p>
                             <h2 className='text-[#EDCEAB] font-semibold text-xl'>{data.title}</h2>
                             <p>{data.about}</p>
                         </div>

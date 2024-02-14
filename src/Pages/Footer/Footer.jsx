@@ -71,7 +71,7 @@ const Footer = () => {
                         <li className="hover:text-[#EDCEAB] duration-300"><a href="">contact us</a></li>
                     </ul>
 
-                    <p className="mt-12 text-[#ffffff32] text-sm text-center lowercase">COPYRIGHT @ 2024 BY <span className="text-[#EDCEAB]">mamonrabin@gmail.com</span> ALL RIGHT RESERVED</p>
+                    <p className="mt-12 text-[#ffffff32] text-sm text-center lowercase">COPYRIGHT @ 2024 BY <span className="text-[#EDCEAB]">syedaqirratfatima@gmail.com</span> ALL RIGHT RESERVED</p>
                 </div>
             </div>
         </div>
